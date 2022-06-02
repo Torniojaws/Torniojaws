@@ -2,7 +2,7 @@ SW Dev from Finland. Professional work since January 2011.
 
 Enjoys:
 
-- Backend: Python, Node
+- Backend: Python, Node.js, TypeScript
 - Frontend: React, Vue, Qt QML
 - Unit testing, TDD
 
