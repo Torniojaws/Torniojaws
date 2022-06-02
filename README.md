@@ -9,7 +9,7 @@ Enjoys:
 Work experience stacks (in order of most used):
 
 - **Finnair**, Nov 2019 - to date:
-  - Qt QML, JavaScript, Node, React, Docker, SQLite, Jest, Cypress, AWS (Lambda, Athena, ECS, S3)
+  - TypeScript, Qt QML, Node.js, JavaScript, React, Docker, React Native, SQLite, Jest, Cypress, AWS (Lambda, Athena, ECS, S3, APIGateway)
 - **Blueprint Genetics**, Mar 2019 - Nov 2019:
   - PHP, Go, React, MySQL, MariaDB, Groovy, Jenkins, Docker, Shell Script
 - **F-Secure**, Oct 2017 - Mar 2019: 
